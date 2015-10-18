@@ -7,8 +7,18 @@
   <%= csrf_meta_tags %>
 </head>
 <body>
+  <div class ="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <a href="#" class="navbar-brand">  JibJabber</a>
+      <ul class="nav navbar-nav">
+        <li><a href="#">All Statuses</a></li>
+      </ul>
 
-<%= yield %>
+    </div>
+  </div>
+  <div class="container">
+    <%= yield %>
+  <div>
 
 </body>
 </html>

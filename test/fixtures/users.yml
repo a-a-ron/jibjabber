@@ -3,3 +3,9 @@ aaron:
   last_name: "Stewart"
   email: "astewart@gmail.com"
   profile_name: "astewart"
+
+dean:
+  first_name: "Dean"
+  last_name: "Winchester"
+  email: "supernatural@gmail.com"
+  profile_name: "awesome"

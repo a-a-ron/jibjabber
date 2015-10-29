@@ -7,3 +7,7 @@ one:
 two:
   content: MyText
   user: aaron
+
+three:
+  content: "This is my first post"
+  user: dean

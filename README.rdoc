@@ -1,7 +1,6 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A basic twitter app clone that users can sign in, post, and view status updates. 
 
 Things you may want to cover:
 

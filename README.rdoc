@@ -1,4 +1,6 @@
 Jibjabber
 
-A basic twitter app clone that users can sign in, post, and view status updates. 
+A basic twitter app clone that users can sign in, post, and view status updates. Users can also view and update their profile.
+
+
 
